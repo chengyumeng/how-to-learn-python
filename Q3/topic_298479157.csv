@@ -1,17 +1,34 @@
-url,type,text,imgs,author,time,location
-https://www.douban.com/group/topic/298479157/,正文,求推荐无糖成分干净好喝的豆浆粉。,,已注销,2023-11-29 23:42:08,浙江
-https://www.douban.com/group/topic/298479157/,评论,龙王的还可以。,,簷鐸,2023-11-30 03:23:00,安徽
-https://www.douban.com/group/topic/298479157/,评论,冰泉 回购好几次了 无糖,,少吃白米饭,2023-11-30 07:41:07,山东
-https://www.douban.com/group/topic/298479157/,评论,冰泉冰泉冰泉！,,捞汁儿,2023-11-30 07:54:25,吉林
-https://www.douban.com/group/topic/298479157/,评论,冰泉！,,王祖闲,2023-11-30 08:27:00,四川
-https://www.douban.com/group/topic/298479157/,评论,永和豆浆不好吗？又一次怀疑自己的口味😂,,momo,2023-11-30 08:27:14,广东
-https://www.douban.com/group/topic/298479157/,评论,冰泉好喝,,sunny🌟,2023-11-30 08:45:42,广东
-https://www.douban.com/group/topic/298479157/,评论,bdjw豆浆粉的话，黄豆里面的有益成分都会保留吗？卵磷脂之类的,,黒夢,2023-11-30 08:45:57,湖南
-https://www.douban.com/group/topic/298479157/,评论,龙王，只喝过他家的 还不错,,不知人间宫阙,2023-11-30 09:25:14,广东
-https://www.douban.com/group/topic/298479157/,评论,龙王 永和,,fofo,2023-11-30 09:27:09,四川
-https://www.douban.com/group/topic/298479157/,评论,我也喜欢永和,,默认多好,2023-11-30 10:17:53,江苏
-https://www.douban.com/group/topic/298479157/,评论,哈哈那就好，感觉味道还是挺足的。,,momo,2023-11-30 10:28:27,广东
-https://www.douban.com/group/topic/298479157/,评论,九阳的很好喝，无添加的原味，买了好多次,,羊嘟(已成材),2023-11-30 10:34:21,浙江
-https://www.douban.com/group/topic/298479157/,评论,智力 也还可以,,memoryangle,2023-11-30 10:49:09,北京
-https://www.douban.com/group/topic/298479157/,评论,冰泉，真的无糖,,汪汪队立大功,2023-11-30 10:53:55,陕西
-https://www.douban.com/group/topic/298479157/,评论,冰泉>阿华田=龙王=九阳>永和，个人排序,,小天狼星爱学习,2023-11-30 10:58:57,广东
+url,type,text,imgs,author,time,location,author_id
+https://www.douban.com/group/topic/298479157/,正文,求推荐无糖成分干净好喝的豆浆粉。,,已注销,2023-11-29 23:42:08,浙江,c52andy
+https://www.douban.com/group/topic/298479157/,评论,龙王的还可以。,,簷鐸,2023-11-30 03:23:00,安徽,amber_0213
+https://www.douban.com/group/topic/298479157/,评论,冰泉 回购好几次了 无糖,,少吃白米饭,2023-11-30 07:41:07,山东,65105381
+https://www.douban.com/group/topic/298479157/,评论,冰泉冰泉冰泉！,,捞汁儿,2023-11-30 07:54:25,吉林,211767353
+https://www.douban.com/group/topic/298479157/,评论,冰泉！,,王祖闲,2023-11-30 08:27:00,四川,itafushi
+https://www.douban.com/group/topic/298479157/,评论,永和豆浆不好吗？又一次怀疑自己的口味😂,,momo,2023-11-30 08:27:14,广东,160190899
+https://www.douban.com/group/topic/298479157/,评论,冰泉好喝,,sunny🌟,2023-11-30 08:45:42,广东,210721276
+https://www.douban.com/group/topic/298479157/,评论,bdjw豆浆粉的话，黄豆里面的有益成分都会保留吗？卵磷脂之类的,,黒夢,2023-11-30 08:45:57,湖南,schweini
+https://www.douban.com/group/topic/298479157/,评论,龙王，只喝过他家的 还不错,,不知人间宫阙,2023-11-30 09:25:14,广东,174315695
+https://www.douban.com/group/topic/298479157/,评论,龙王 永和,,fofo,2023-11-30 09:27:09,四川,163079957
+https://www.douban.com/group/topic/298479157/,评论,我也喜欢永和,,默认多好,2023-11-30 10:17:53,江苏,203046363
+https://www.douban.com/group/topic/298479157/,评论,哈哈那就好，感觉味道还是挺足的。,,momo,2023-11-30 10:28:27,广东,160190899
+https://www.douban.com/group/topic/298479157/,评论,九阳的很好喝，无添加的原味，买了好多次,,羊嘟(已成材),2023-11-30 10:34:21,浙江,215580487
+https://www.douban.com/group/topic/298479157/,评论,智力 也还可以,,memoryangle,2023-11-30 10:49:09,北京,2564492
+https://www.douban.com/group/topic/298479157/,评论,冰泉，真的无糖,,汪汪队立大功,2023-11-30 10:53:55,陕西,230284332
+https://www.douban.com/group/topic/298479157/,评论,冰泉>阿华田=龙王=九阳>永和，个人排序,,小天狼星爱学习,2023-11-30 10:58:57,广东,179634644
+https://www.douban.com/group/topic/298479157/,评论,我喝了  我感觉维维豆奶是最好喝的，跟冰泉的热量是一样但是我觉得好喝，追求豆浆选冰泉追求好喝就维维豆奶~,,雾里看花,2023-11-30 11:36:49,湖北,151278686
+https://www.douban.com/group/topic/298479157/,评论,维维豆奶,,文淇,2023-11-30 11:39:53,重庆,226429897
+https://www.douban.com/group/topic/298479157/,评论,,https://img1.doubanio.com/view/richtext/large/public/p639837667.jpg,XU沙拉'',2023-11-30 12:04:07,黑龙江,185652126
+https://www.douban.com/group/topic/298479157/,评论,我买的维维 因为他家送的杯子好看😅 黑豆的好喝黄豆的就一般 写的都是0添加,https://img1.doubanio.com/view/richtext/s/public/p639837667.jpg,momo,2023-11-30 12:41:38,陕西,173837385
+https://www.douban.com/group/topic/298479157/,评论,喝过金龙鱼，便利蜂豆浆口感，最近在喝北大荒，也是类似口感。,,Sunnie,2023-11-30 13:58:23,北京,172256067
+https://www.douban.com/group/topic/298479157/,评论,看题目还想说自己渣，毕竟新鲜的喝起来口感好，豆浆还会有一层豆皮。,,没来由。,2023-11-30 14:07:33,江苏,213755518
+https://www.douban.com/group/topic/298479157/,评论,冰泉,,momo,2023-11-30 14:26:16,浙江,189868020
+https://www.douban.com/group/topic/298479157/,评论,市面上常见的我基本都喝过，论味道，还得看维维。,,Anncy,2023-11-30 14:40:18,江苏,201029417
+https://www.douban.com/group/topic/298479157/,评论,我觉得九阳最好喝,,weiren,2023-11-30 14:45:06,重庆,151700975
+https://www.douban.com/group/topic/298479157/,评论,另外推荐一个盒马上的豆浆，这个超好喝,https://img2.doubanio.com/view/richtext/large/public/p639898441.jpg,weiren,2023-11-30 14:46:05,重庆,151700975
+https://www.douban.com/group/topic/298479157/,评论,东方甄选的豆浆粉你可以试一下，跟我以前喝的都不一样，就是特别细腻浓郁，自己加点糖会更好喝,https://img9.doubanio.com/view/richtext/large/public/p639900166.jpg,佚名,2023-11-30 14:51:01,山东,230533548
+https://www.douban.com/group/topic/298479157/,评论,维维豆奶，欢乐开怀（不好意思串台了,,Rumor,2023-11-30 15:25:44,北京,lovenannan
+https://www.douban.com/group/topic/298479157/,评论,维维YYDS...,,小香,2023-11-30 15:28:24,北京,huangqii
+https://www.douban.com/group/topic/298479157/,评论,维维有无糖的吗，印象中超级甜,,michelle,2023-11-30 15:45:39,北京,44400729
+https://www.douban.com/group/topic/298479157/,评论,喝了八百种还是维维最好喝,,不安之书,2023-11-30 15:46:27,北京,197824001
+https://www.douban.com/group/topic/298479157/,评论,冰泉！,,玖,2023-11-30 16:03:27,江苏,196718347
+https://www.douban.com/group/topic/298479157/,评论,如果不是粉的话，奥乐齐的蜂蜜豆浆挺好喝的,,巴啦啦,2023-11-30 16:09:52,上海,197867933
