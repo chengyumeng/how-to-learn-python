@@ -11,4 +11,5 @@ B站课程合集：https://space.bilibili.com/108748495/channel/collectiondetail
 - [第五课：用巴以冲突遇难者的数据绘制地理位置图和词云](https://github.com/chengyumeng/how-to-learn-python/blob/main/Q5/q5.ipynb)
 - [第六课：五月天的二十多年在唱啥](https://github.com/chengyumeng/how-to-learn-python/blob/main/Q6/q6.ipynb)
 - [第七课：中文词云绘图精讲](https://github.com/chengyumeng/how-to-learn-python/blob/main/Q7/q7.ipynb)
+- [第八课：B站爬虫](https://github.com/chengyumeng/how-to-learn-python/blob/main/Q8/q8.ipynb)
 
